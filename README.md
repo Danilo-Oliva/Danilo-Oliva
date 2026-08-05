@@ -37,12 +37,20 @@ $ neofetch --user danilo
 </div>
 
 <p align="center">
-  <a href="https://github.com/Danilo-Oliva">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danilo-Oliva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Danilo-Oliva">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danilo-Oliva&layout=compact&langs_count=8&theme=radical&card_width=400" />
-  </a>
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <a href="https://github.com/Danilo-Oliva">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danilo-Oliva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://github.com/Danilo-Oliva">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danilo-Oliva&layout=compact&langs_count=8&theme=radical"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- DIVISOR -->

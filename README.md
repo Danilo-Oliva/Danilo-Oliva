@@ -64,7 +64,7 @@ $ neofetch --user danilo
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,flask,flutter,github,html,py,sqlite,vscode,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,fastapi,flask,flutter,sklearn,pytorch,tensorflow,sqlite,git,github,vscode,windows&perline=15" />
   </a>
 </p>
 
